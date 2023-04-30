@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Brendan Duffy",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Full Stack Software Developer and experienced Veteran" ],
       "social": [
         {
           "name": "github",
@@ -9,9 +9,9 @@
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedIn",
+          "url": "https://www.linkedin.com/in/brendan-duffy-800b30265/",
+          "class": "devicon-linkedin-plain"
         }
       ],
       "image": "myProfile.jpg"
